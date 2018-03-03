@@ -148,9 +148,9 @@ div#menu ul li {
               <a class="navbar-brand" href="#">정보 구조</a>
                 </div>
                   <ul class="nav navbar-nav">
-                   <li class="active"><a href="#">Inicio</a></li>
-                    <li><a href="#">Fuentes de informacion</a></li>
-                     <li><a href="#">mas contenido</a></li>
+                   <li class="active"><a href="general">Generalidades</a></li>
+                    <li><a href="https://www.universidadviu.es/estructura-datos-definicion-tipos-principales">Fuentes de informacion</a></li>
+                     <li><a href="formulario">Formulario</a></li>
                       </ul>
                        <form class="navbar-form navbar-left" action="/action_page.php">
                      <div class="input-group">
